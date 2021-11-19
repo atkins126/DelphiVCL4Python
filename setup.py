@@ -118,7 +118,7 @@ if not ("sdist" in sys.argv):
 versnewstr = get_release_version()   
 
 with open("README.md", "r") as fh:
-  long_description = fh.read()      
+  long_description = fh.read()    
 
 setuptools.setup(
   name="delphivcl",
@@ -128,12 +128,15 @@ setuptools.setup(
   author_email="lucas.belo@live.com",
   long_description=long_description,
   long_description_content_type="text/markdown",
+  license="Other/Proprietary License",
+  license_files=["LICENSE.md"],
+  url = "https://github.com/Embarcadero/DelphiVCL4Python",
   packages=["delphivcl"],    
   classifiers=[
             'Development Status :: 1 - Planning',
             'Intended Audience :: Developers',
             'Topic :: Software Development',
-            'License :: OSI Approved :: BSD License',
+            'License :: Other/Proprietary License',
             'Programming Language :: Python',
             'Programming Language :: Python :: 3',
             'Programming Language :: Python :: 3.7',
