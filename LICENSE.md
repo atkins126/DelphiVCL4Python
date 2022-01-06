@@ -124,7 +124,7 @@ contained herein, the parties hereto also agree as follows:
     in this Section 3 shall apply to all licenses of Embarcadero C++
     Compiler licensed by Embarcadero to Customer:
 
- > Subject to the terms and conditions of this Agreement and Customer’s
+    Subject to the terms and conditions of this Agreement and Customer’s
     full compliance herewith and according to the scope, time period and
     other terms indicated herein, Embarcadero grants Customer during the
     term (as defined in Section 8 below) a personal, nonexclusive
@@ -297,7 +297,7 @@ contained herein, the parties hereto also agree as follows:
     performance specifications of the Licensed Software without
     Embarcadero’s express prior written consent. Each party shall take
     all reasonable precautions necessary to safeguard the
-    confiden­tiality of all Confidential Information disclosed by the
+    confidentiality of all Confidential Information disclosed by the
     other party, including those precautions (i) taken by the disclosing
     party to protect its own Confidential Information and (ii) which the
     disclosing party or its authorized representative may reasonably
@@ -308,7 +308,7 @@ contained herein, the parties hereto also agree as follows:
     constitute publication or otherwise impair their confidential nature
     of such information. If an unauthorized use or disclosure of the
     disclosing party’s Confidential Information occurs within the
-    recipient party’s enterprise, the recipient party will immed­iately
+    recipient party’s enterprise, the recipient party will immediately
     notify the disclosing party or its authorized representative and
     take, at recipient party’s expense, all steps which may be available
     to recover such Confidential Information and to prevent its
